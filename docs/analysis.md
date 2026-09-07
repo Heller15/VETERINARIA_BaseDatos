@@ -1,10 +1,6 @@
 # Requisitos, Preguntas y Supuestos
 
 **Proyecto:** GameZone / Sistema de Información para Clínica Veterinaria
-**Entrega 1 — Punto 2**
-**Versión:** Ajustada al Diagrama EER y al Esquema Relacional
-
----
 
 ## 1. Requisitos de información
 
